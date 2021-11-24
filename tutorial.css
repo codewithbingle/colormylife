@@ -1,0 +1,121 @@
+.brand-name {
+    font-weight: bold;
+    font-style:normal;
+    font-family: 'Nosifer', cursive;
+    font-size: 4em;
+  }
+body {
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat (6,1fr);
+    gap: 20px;
+    padding: 0 40px;
+    grid-template-areas: ". content content content content ."
+}
+.content {
+    grid-area: content;
+    width: 100%;
+}
+
+.dark-header {
+    background-color: white;
+    -webkit-animation: anirain 5s linear infinite alternate;
+    text-align: center;
+}
+
+@keyframes anirain {
+    0% {color; #ff8b00;}
+    10% {color: #e8ff00;}
+    20% {color: #5dff00}
+    30% {color: #00ff2e;}
+    40% {color: #00ffb9;}
+    50% {color: #00b9ff;}
+    60% {color: #002eff;}
+    70% {color: #5d00ff;}
+    80% {color: #e800ff;}
+    90% {color: #ff008b;}
+    100% {color: #ff000f;}  
+}
+    
+.brand-row {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position:sticky;
+}
+
+.topnav {
+    background-color: #6012c8;
+    overflow: hidden;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position:sticky;
+}
+
+.topnav a {
+    float: left;
+    color:white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif; 
+} 
+
+.topnav a:hover {
+    background-color: deeppink;
+    color: blueviolet;
+}
+/* video of the tutorial */
+
+.video-container {
+    padding: 0;
+    background-color: #f1e8ff;
+    font-family: 'Poppins', sans-serif;  
+    margin:20px 40px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+/*footer*/
+
+.footer-row {
+    background-color: #fbeaf4;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    color: #0f172a;
+    text-align: center;
+}
+
+.footer-row .btn {
+    display: inline-block;
+    margin-top: auto;
+    background: #d93095;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5rem 0.4rem;:
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    transition: 0.2s;
+    letter-spacing:0.1rem;
+}
+
+.footer-row .btn:hover , 
+.footer-row .btn:active
+{ background-color:rgb(135, 119, 179)
+}

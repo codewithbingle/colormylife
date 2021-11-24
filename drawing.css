@@ -1,0 +1,192 @@
+.brand-name {
+    font-weight: bold;
+    font-style:normal;
+    font-family: 'Nosifer', cursive;
+    font-size: 4em;
+  }
+body {
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat (6,1fr);
+    gap: 20px;
+    padding: 0 40px;
+    grid-template-areas: ". content content content content ."
+}
+.content {
+    grid-area: content;
+    width: 100%;
+}
+
+.dark-header {
+    background-color: white;
+    -webkit-animation: anirain 5s linear infinite alternate;
+    text-align: center;
+}
+
+@keyframes anirain {
+    0% {color; #ff8b00;}
+    10% {color: #e8ff00;}
+    20% {color: #5dff00}
+    30% {color: #00ff2e;}
+    40% {color: #00ffb9;}
+    50% {color: #00b9ff;}
+    60% {color: #002eff;}
+    70% {color: #5d00ff;}
+    80% {color: #e800ff;}
+    90% {color: #ff008b;}
+    100% {color: #ff000f;}  
+}
+    
+.brand-row {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position:sticky;
+}
+
+.topnav {
+    background-color: #6012c8;
+    overflow: hidden;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position:sticky;
+}
+
+.topnav a {
+    float: left;
+    color:white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif; 
+} 
+
+.topnav a:hover {
+    background-color: deeppink;
+    color: blueviolet;
+}
+
+/*theme*/
+
+.theme {
+    margin: 20px 5px;
+    padding: 0;
+    height: 70vh;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: #4b4ecf;
+    margin: 0px 10px;
+}
+
+
+
+/*canvas*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+:root {}
+
+.field {
+    margin: 0px;
+    padding:30px; 
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    background: #fff;
+}
+
+canvas {
+    box-shadow: -3px 2px 9px 6px #b080e6;
+    cursor:pointer;
+    background: white;
+}
+
+.tools {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.tools .color-field {
+    height: 40px;
+    width: 40px;
+    min-height: 40px;
+    min-width: 40px;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 2px solid white;
+    align-self: center;
+    margin: 0px 10px;
+}
+
+.tools .button {
+    align-self: center;
+    width: 100px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    color: #f8fafc;
+    background: #6012c8;
+    font-weight: bold;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+.tools .button:hover {
+    background: #b080e6;
+    color: #f8fafc;
+}
+
+.color-picker {
+    align-self: center;
+    margin: 0 10px;
+    height: 50px;
+}
+
+.pen-range {
+    margin: 0 10px;
+    align-self: center;
+}
+
+.footer-row {
+    background-color: #fbeaf4;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    color: #0f172a;
+    text-align: center;
+}
+
+.footer-row .btn {
+    display: inline-block;
+    margin-top: auto;
+    background: #d93095;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: .5rem .4rem;:
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    transition: 0.2s;
+    letter-spacing:0.1rem;
+}
+
+.footer-row .btn:hover , 
+.footer-row .btn:active
+{ background-color:rgb(135, 119, 179)
+}
