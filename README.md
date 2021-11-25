@@ -8,7 +8,25 @@ MintBean Hackaton: Paint App Project "Color My Life"
 
 We have created the website [ColorMyLife](https://colormylife.netlify.app/). This is a website that allows you to create your art through your emotions. It uses art as a therapy tool to help you express them and improve your mental health. Having the opportunity to do so is a great way to stay healthy and happy. 
 
+We have built this website using HTML5, CSS, and Vanilla Javascript.<br>
+  Process of Development:<br>
+  1) We brainstorm during our meeting about the theme we wanted to make.<br>
+  2) We divided the task among ourselves.<br>
+  3) We meet up for another meeting to show progress of each one's assignments.<br>
+  4) We tried to combine everything together and see if things are working as we expected.<br>
+  5) Due to limited skills, we unfortunately able to execute what are UX Designer has orginally planned.<br>
+  6) We decided to proceed and submitted what we have made and plan to improve it as our skills improve along with it.<br>
 
+
+
+
+We deployed the website using Netlify.<br>
+  Steps for Deployment: <br>
+    1) Sign-up for a free Netlify account.<br> 
+    2) Linked the Netlify account with GitHub.<br>
+    3) Picked the repository you wanted to deploy.<br> 
+    4) To change the site name, click the change Site Settings to modify.<br>
+    5) When all is set, click the URL link of your website and it is ready to be deployed.<br>
 
 
 
