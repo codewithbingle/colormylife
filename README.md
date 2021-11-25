@@ -26,13 +26,13 @@ Instructions:<br>
 2) Draw/Paint and express what you feel about the "Theme". What image of that emotions.<br>
 3) Afterwards, look at the art you did and voice out or express the emotions that are surfacing.<br> 
  
-We deployed the website using Netlify.<br>
+We deployed the website using Netlify. <br>
   Steps for Deployment: <br>
-    1) Sign-up for a free Netlify account.<br> 
-    2) Linked the Netlify account with GitHub.<br>
-    3) Picked the repository you wanted to deploy.<br> 
-    4) To change the site name, click the change Site Settings to modify.<br>
-    5) When all is set, click the URL link of your website and it is ready to be deployed.<br>
+    1) Sign-up for a free Netlify account. <br> 
+    2) Linked the Netlify account with GitHub. <br>
+    3) Picked the repository you wanted to deploy. <br> 
+    4) To change the site name, click the change Site Settings to modify. <br>
+    5) When all is set, click the URL link of your website and it is ready to be deployed. <br>
 
 Thank you for stopping by and checking our project out. 
 
