@@ -38,16 +38,18 @@ Thank you for stopping by and checking our project out.
 
 <h3 align="left">Connect with us:</h3>
 
-<p align="left"><h3>Bora Kim</h3>
+<p align="left"><h3>Bora Kim/UX Designer</h3>
+
 <a href="https://www.linkedin.com/in/kim-bora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kim-bora/" height="30" width="40" /></a>
 </p>
 
 
-<p align="left"><h3>Mary Abigail "Bingle" Padilla</h3>
+<p align="left"><h3>Mary Abigail "Bingle" Padilla/Software Engineer</h3>
 <a href="https://www.linkedin.com/in/maryabigail-padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryabigail-padilla/" height="30" width="40" /></a>
 </p>
 
-<p align="left"><h3>Mi-Ann Hartman</h3>
+<p align="left"><h3>Mi-Ann Hartman/Web Developer</h3>
+
 <a href="https://www.linkedin.com/in/mi-annmiranda-hartman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mi-annmiranda-hartman/" height="30" width="40" /></a>
 </p>
 
