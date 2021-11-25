@@ -17,9 +17,15 @@ We have built this website using HTML5, CSS, and Vanilla Javascript.<br>
   5) Due to limited skills, we unfortunately able to execute what are UX Designer has orginally planned.<br>
   6) We decided to proceed and submitted what we have made and plan to improve it as our skills improve along with it.<br>
 
+[UX Design]![figmalayoutdesign](https://user-images.githubusercontent.com/90303824/143385513-045ad022-143a-4442-a699-dfde54119e37.png)
 
-
-
+[COLOR MY LIFE - Blank Canvas]![colormylifeblankcanvas](https://user-images.githubusercontent.com/90303824/143385928-eaf37a05-cbbc-4b6a-b4bf-c05519ed197b.png)
+ 
+Instructions:<br>
+1) Read the Theme.<br>
+2) Draw/Paint and express what you feel about the "Theme". What image of that emotions.<br>
+3) Afterwards, look at the art you did and voice out or express the emotions that are surfacing.<br> 
+ 
 We deployed the website using Netlify.<br>
   Steps for Deployment: <br>
     1) Sign-up for a free Netlify account.<br> 
@@ -28,7 +34,7 @@ We deployed the website using Netlify.<br>
     4) To change the site name, click the change Site Settings to modify.<br>
     5) When all is set, click the URL link of your website and it is ready to be deployed.<br>
 
-
+Thank you for stopping by and checking our project out. 
 
 <h3 align="left">Connect with us:</h3>
 
