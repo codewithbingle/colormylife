@@ -34,7 +34,7 @@ We deployed the website using Netlify. <br>
     4) To change the site name, click the change Site Settings to modify. <br>
     5) When all is set, click the URL link of your website and it is ready to be deployed. <br>
 
-Thank you for stopping by and checking our project out. 
+Thank you.
 
 <h3 align="left">Connect with us:</h3>
 
