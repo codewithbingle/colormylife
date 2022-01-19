@@ -36,6 +36,8 @@ We deployed the website using Netlify. <br>
 
 Thank you.
 
+***This will be updated to be able to be a mobile friendly version***
+
 <h3 align="left">Connect with us:</h3>
 
 <p align="left"><h3>Bora Kim/UX Designer</h3>
